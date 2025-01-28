@@ -5,7 +5,6 @@ ZenHomes is a comprehensive web application designed to manage consumption data 
 Features
 
 - Modern Design and Structure: Built with a clean and intuitive interface, the project employs industry-standard practices for structuring code.
-- Energy Data Management: Easily add, view, and manage energy consumption data with a well-organized dashboard.
 - API Integration: Connects to external services for managing data and ensuring seamless integration across platforms.
 - Secure Authentication: Implements robust user authentication and authorization mechanisms.
 - Scalability: Designed to scale as user data grows, with maintainable backend and frontend architecture.
