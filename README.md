@@ -1,6 +1,6 @@
 Description
 
-ZenHomes is a comprehensive web application designed to manage energy consumption data for residential properties. It provides a seamless interface for property owners, energy providers, and administrators to monitor and manage meter readings efficiently. The project prioritizes clean code practices, scalability, and a user-friendly experience.
+ZenHomes is a comprehensive web application designed to manage consumption data for residential properties. It provides a seamless interface for property owners, energy providers, and administrators to monitor and manage meter readings efficiently. The project prioritizes clean code practices, scalability, and a user-friendly experience.
 
 Features
 
