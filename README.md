@@ -27,5 +27,4 @@ Authentication:
 - JWT: Implements secure token-based authentication for users.
 
 LINKS
-- [DEMO LINK]
-- [MOCKUP]
+- [DEMO LINK](https://zenhomes-six.vercel.app/)
