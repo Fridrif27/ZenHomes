@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         domain='dev-wiskq76a0zsthlqy.us.auth0.com'
         clientId='9XJ5BBwmhbrrf8L48tKQwjiRWbPg31Qt'
         authorizationParams={{
-            redirect_uri: "http://localhost:5173"
+            redirect_uri: "https://zenhomes-six.vercel.app"
         }}
         audience="http://localhost:3000"
         scope="openid profile email"
